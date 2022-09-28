@@ -1,0 +1,11 @@
+*
+!*.cpp
+!*.h
+!*.cbp
+!*.layout
+!*/
+!.gitignore
+!README.md
+
+.vscode
+tempCodeRunnerFile.cpp
